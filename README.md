@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mahirshahryar 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @mahirshahryar 
+- I’m interested in ... technology based startup
+- I’m currently learning ... MongoDB
+- I’m looking to collaborate on ... startup projects
+- How to reach me ... @mahirshahryar@prbitglobal.com 
 
 <!---
 mahirshahryar/mahirshahryar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
