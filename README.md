@@ -1,5 +1,5 @@
 - Hi, I’m @mahirshahryar 
 - I’m interested in ... technology startups 
-- I’m currently learning ... Solidity 
+- I’m currently learning ... Blockchain
 - I’m looking to collaborate on ... mobile startup projects 
 - How to reach me ... @mahirshahryar@prbitglobal.com 
